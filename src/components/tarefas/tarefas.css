@@ -1,0 +1,22 @@
+
+
+.task {
+    background-color: #fff;
+    border-radius:  6px;
+    padding: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+
+    border: 1px solid #e8e8e8;
+
+}
+
+
+.task-checkbox {
+    margin: 5px;
+}
+
+.task-done{
+    text-decoration: line-through;
+}
